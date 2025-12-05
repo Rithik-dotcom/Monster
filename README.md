@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# use below command
+
+npm i --legacy-peer-deps --force
+npm install react-scripts@5.0.1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
